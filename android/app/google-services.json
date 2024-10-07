@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551029664815",
+    "project_id": "cafem-e1762",
+    "storage_bucket": "cafem-e1762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551029664815:android:e064deee631ed444a46ada",
+        "android_client_info": {
+          "package_name": "dev.probity.cafem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmlYZrD9ITX-LuSVlhADH4ozQjbWhjfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
